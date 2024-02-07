@@ -17,3 +17,7 @@
   align-items: center;
   justify-content: center;
 }
+
+.package_card:hover {
+  transform: scale(1.05);
+}
